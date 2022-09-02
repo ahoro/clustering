@@ -1,0 +1,9 @@
+Package: clustering
+Type: Package
+Title: Clustering GMMs by EM and K-Means.
+Version: 1.0
+Date: 2022-08-25
+Author: Adrian Horodeckyj
+Maintainer: Adrian Horodeckyj <a.horodeckyj@gmail.com>
+Description: Implements K-Means (both standard, "hard" version and "soft") as well as Gaussian Mixture Models trained by the EM algorithm.
+License: GPL v3

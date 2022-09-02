@@ -1,0 +1,6 @@
+export("ClusterDemo", "InitArbitraryGMM", "InitArbitraryGMMFromData", "InitAxisAlignedGMM",
+       "InitAxisAlignedGMMFromData", "InitGMMFromData", "InitHardKMeansModel",
+       "InitHardKMeansModelFromData", "InitSoftKMeansModel",
+       "InitSoftKMeansModelFromData", "InitSphericalGMM", "InitSphericalGMMFromData",
+       "StepModel", "StepModel.ArbitraryGMM", "StepModel.AxisAlignedGMM",
+       "StepModel.HardKMeansModel", "StepModel.SoftKMeansModel", "StepModel.SphericalGMM", "UpgradeModel")
